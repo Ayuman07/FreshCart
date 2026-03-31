@@ -44,7 +44,7 @@ const AIScore = ({ cartItems, setView }) => {
           {/* Header Section */}
           <div className="bg-gradient-to-br from-indigo-600 via-purple-600 to-pink-500 p-10 text-white text-center">
             <Activity className="mx-auto mb-4 opacity-90 animate-pulse" size={48} />
-            <h1 className="text-4xl font-black tracking-tight mb-2">FreshKart Health AI</h1>
+            <h1 className="text-4xl font-black tracking-tight mb-2">FreshCart Health AI</h1>
             <p className="text-indigo-100 font-medium">Nutritional Insight Engine</p>
           </div>
 
